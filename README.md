@@ -1,6 +1,6 @@
 # Ask me anything!
 
-#### [Ask a question](https://github.com/letsthrive/thrive-ama/issues/new)
+#### [Ask a question](https://github.com/letsthrive/thrive-ama/issues/new/choose)
 #### [Read answered questions](https://github.com/letsthrive/thrive-ama/issues?q=is%3Aissue+is%3Aclosed)
 
 There are also other [labels](https://github.com/letsthrive/thrive-ama/labels) to sort the questions by.
