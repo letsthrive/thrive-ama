@@ -20,8 +20,6 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 - Bugs & feature requests should be opened on the relevant issue tracker.
 - Support questions are better asked on Stack Overflow.
 - Be civil and polite :)
-- I will not help you with a question that goes against my personal moral standards.
-
 
 #### How to get in touch
 I can also be reached on [Twitter](https://twitter.com/adeelibr) and [email](mailto:adeelimranr@gmail.com), but I prefer [this medium](https://github.com/letsthrive/thrive-ama/issues/new).
