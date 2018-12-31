@@ -5,7 +5,8 @@
 
 There are also other [labels](https://github.com/letsthrive/thrive-ama/labels) to sort the questions by.
 
-I get a lot of questions by email but responding to an email only helps one person. This way anyone can read the answer.
+Responding to an email only helps one person. This way anyone can read the answer. on the forum here
+benefits.
 
 **If you'd rather not ask your question publicly**, send me an [email](mailto:adeelimranr@gmail.com) and I can post the question anonymously for you.
 
